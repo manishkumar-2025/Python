@@ -5,7 +5,7 @@
 ### *My Python learning journey through* **Dr. Angela Yu's 100 Days of Code** 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Days Completed](https://img.shields.io/badge/Completed-9%2F100-success?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Completed-8%2F100-success?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge)
 
 ---
